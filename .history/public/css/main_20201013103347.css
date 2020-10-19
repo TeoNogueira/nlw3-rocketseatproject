@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+/* através do "ROOTEM" ou "rem" posso criar um root de tamanhos de pixels pre-configurados por mim mesmo*/
+
+body {
+  height: 100vh;
+  color: aqua;
+}
+
+body,
+button,
+input,
+textarea {
+  /*
+    font-size: 1.1em;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1;
+    font-weight: 400;*/
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+  background: #babaca;
+}

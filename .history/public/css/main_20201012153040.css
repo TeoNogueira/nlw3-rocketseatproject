@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+/* através do "ROOTEM" ou "rem" posso criar um root de tamanhos de pixels pre-configurados por mim mesmo*/
+
+
+
+
+body {
+  height: 100vh;
+  color: white;
+}
+
+body,
+button,
+input,
+textarea {
+  /*
+    font-size: 1.1em;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1;
+    font-weight: 400;*/
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+}
+
+#page-landing {
+  background: linear-gradient(329.54deg, #29d6d1 0%, #00c7c7 100%) no-repeat;
+
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.location,
+h1,
+visit p {
+  height: 16vh;
+}
+
+/*----------alterando os lados do >>-------------------Container----*/
+
+#container {margin: auto;}
+
+.visit a {
+  width: 8rem;
+  height: 8rem;
+  background: #ffd666; 
+  border: none;
+  border-radius: 3rem;
+  display: flex;
+  align-items: center;  /* alinhando ao eixo y Vertical */
+  justify-content: center; /* alinhando ao eixo X Horizontal */
+  margin: 0 auto;
+}
+
+

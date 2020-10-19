@@ -1,0 +1,8 @@
+ //para startar o nodemon é so usar npm start e pressionar enter   
+ 
+ // instalei o handlerbars.js (comando: npm install hbs depois pressione enter)
+ 
+ 
+  //request.query pega todos os dados depois da interrogação ex:http://127.0.0.1:5500/?id=1&name=Teo
+ 
+ //e antes o nodemon (monitorando do NodeJS assim como o live server do visual code)

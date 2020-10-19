@@ -1,0 +1,133 @@
+#page-landing {
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.location,
+h1,
+visit p {
+  height: 16vh;
+}
+
+/*----------alterando os lados do >>-------------------Container----*/
+
+#container {
+  margin: auto;
+  width: min(90%, 112rem);
+
+
+}
+
+/*---------------BOTÃOOO-------------------*/
+.visit a {
+  width: 6rem;
+  height: 6rem;
+  background: #ffd666;
+  border: none;
+  border-radius: 3rem;
+  display: flex;
+  align-items: center; /* alinhando ao eixo y Vertical */
+  justify-content: center; /* alinhando ao eixo X Horizontal */
+  margin: 0 auto;
+ /* margin-top: 8rem;*/ 
+  transition: background 0.2s;
+  animation-delay: 250ms;
+}
+/*-----------------x-x---------------x-x--------------*/
+
+/* Tempo de aparição de cada Elemento */
+
+#logo {
+  animation-delay: 50ms;
+}
+
+.location {
+  animation-delay: 100ms;
+}
+
+main h1 {
+  animation-delay: 150ms;
+  font-size: clamp(4rem, 8vw, 8.4rem);
+}
+
+.visit p {
+  animation-delay: 200ms;
+}
+
+
+.visit a:hover {
+  background: #96feff;
+}
+
+
+
+
+
+/* VERSION DESKTOP */
+
+@media (min-width: 760px) {
+ 
+ 
+ #container { 
+
+     /* shorthand background: image repeat position /  size */
+
+     background: url("../images/bg.svg");
+
+
+
+ }
+ 
+ 
+ 
+  header {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+  }
+  .location,
+  h1,
+  visit p {
+    height: initial;
+    text-align: initial;
+  }
+}
+
+.location { text-align: right;
+line-height: 1.5em;
+font-size: 2.4rem;}
+
+
+main h1 { 
+font-weight: bold; 
+width : min(300px, 80%)
+line-height: .88;
+margin: clamp(10%, 9vh, 12%) 0 1px;
+}
+
+
+.visit { display: flex;
+
+align-items: center;
+justify-content: space-between;
+
+
+
+}
+
+
+.visit p { line-height: 1.5; 
+  width: clamp(20rem, 20vw, );
+font-size: 2.4rem;
+
+
+
+
+}
+
+
+.visit a { margin: initial;}

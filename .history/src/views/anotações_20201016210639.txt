@@ -1,0 +1,3 @@
+ //para startar o nodemon é so usar npm start e pressionar enter   
+ 
+ // instalei o handlerbars.js e antes o nodemon (monitorando do NodeJS assim como o live server do visual code)

@@ -1,0 +1,32 @@
+ //para startar o nodemon é so usar npm start e pressionar enter   
+ 
+ // instalei o handlerbars.js (comando: npm install hbs depois pressione enter)
+ 
+ 
+  //request.query pega todos os dados depois da interrogação ex:http://127.0.0.1:5500/?id=1&name=Teo
+ 
+ //e antes o nodemon (monitorando do NodeJS assim como o live server do visual code)
+
+
+--x---x---x---x---x---x---x---x---
+
+ // todas vez que tenho uma propriedade com o mesmo nome no valor posso deixar apenas uma,
+ exemplo abaixo o name
+ 
+ 
+  return response.render('index', {name: name }) no lugar de dois ponho um NAME APENAS ex:
+
+  return response.render('index', { name }) 
+-x---x---xxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxx-xxxxxxx
+
+  // handlebars templates
+
+  TEM funcionalidades de repetição
+
+  --x---x---x---x---x--x---x---x---x--
+  //
+
+
+  // finalizando o projeto.. instale o sqlite:
+  npm install sqlite-async
+-----------------x----------------------x----------------
