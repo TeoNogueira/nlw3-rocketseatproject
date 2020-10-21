@@ -39,20 +39,22 @@
 </div>
 <br/><br/>
 <h2 align="center"> Tecnologias usadas:</h2>
-<p align="center"
 
-↘️--↘️--↘️--↘️ <br/> <br/> 
 
+<p align="center">↘️--↘️--↘️--↘️ 
+</p>
+<p align="center">
  -- CSS3 ✔️ <br/>
 -- html5 ✔️ <br/>
  -- Node.js ✔️ <br/>
  -- Sqlite   ✔️ <br/>
  -- Expressis ✔️ <br/>
  -- Javascript ✔️   <br/>
- -- HandlebarsJs ✔️ <br/>
-
-<p align="center">↖️--↖️--↖️--↖️</p>
+ -- HandlebarsJs ✔️ 
 </p>
+<p align="center">↘️--↘️--↘️--↘️ </p>
+
+
 <br/>
  </div><br/><br/><br/>
 <br/>
