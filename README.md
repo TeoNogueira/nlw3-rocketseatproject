@@ -41,7 +41,8 @@
 <h2 align="center"> Tecnologias usadas:</h2>
 <p align="center"
 
-↘️--↘️--↘️--↘️     
+↘️--↘️--↘️--↘️ <br/> <br/> 
+
  -- CSS3 ✔️ <br/>
 -- html5 ✔️ <br/>
  -- Node.js ✔️ <br/>
@@ -50,7 +51,7 @@
  -- Javascript ✔️   <br/>
  -- HandlebarsJs ✔️ <br/>
 
-↖️--↖️--↖️--↖️
+<p align="center">↖️--↖️--↖️--↖️</p>
 </p>
 <br/>
  </div><br/><br/><br/>
