@@ -26,7 +26,7 @@
 
 <h3  align="center"> Guia de aulas do projeto: </h3><br/><br/>
 
-   <h3 align="center"> Professor : Mayk Brito 👨‍💻</h3
+   <h3 align="center"> Instrutor : Mayk Brito 👨‍💻</h3
     <br/><br/> <br/>
 
 <h4  align="center">-- Desenvolvedor da empresa RocketSeat 🏫 -- </h4>
