@@ -37,35 +37,36 @@
 
 
 </div>
-<div align="center"><br/><br/>
-<h2 > Tecnologias usadas:</h2>
-
+<br/><br/>
+<h2 align="center"> Tecnologias usadas:</h2>
+<p align="center"
 
 ↘️--↘️--↘️--↘️     
-#### -- CSS3 ✔️
-#### -- html5 ✔️
-#### -- Node.js    ✔️
-#### -- Sqlite   ✔️
-#### &nbsp; -- Expressis    ✔️
-#### &nbsp; -- Javascript ✔️   
-#### &nbsp;  &nbsp; -- HandlebarsJs ✔️
-&nbsp;
+ -- CSS3 ✔️ <br/>
+-- html5 ✔️ <br/>
+ -- Node.js ✔️ <br/>
+ -- Sqlite   ✔️ <br/>
+ -- Expressis ✔️ <br/>
+ -- Javascript ✔️   <br/>
+ -- HandlebarsJs ✔️ <br/>
+
 ↖️--↖️--↖️--↖️
+</p>
 <br/>
  </div><br/><br/><br/>
 <br/>
 
 
 
-</div>
-<div align="center" border-bottom=" 1px solid red"><br/>
+
+<div align="center"><br/>
 <h1 align="center"> Meus sinceros agradecimentos a toda comunidade do Discord RocketSeat
 </h1>
 </div>
 
  <div>
 
-<i align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Codado por<a href="https://github.com/teo_nogueira" align="center">📜       Teo_Nogueira</a></i><br/>
+<i align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Codado por<a href="https://github.com/teo_nogueira">📜 Teo_Nogueira</a></i><br/>
 
  </div>
  
@@ -82,6 +83,6 @@
 
 <br/>
 </div>
-<div id="footer">📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌 </div>
+<div>📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌📌 </div>
 </body>
 
