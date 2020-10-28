@@ -78,7 +78,7 @@
  <div class="links">
  <br/> <br/> <br/> <br/>  <br/> <br/> <br/> <br/> <br/> <br/>
 <h2>LINKS </h2>
-<a href="https://github.com/teo_nogueira">🌀 Github Teo_Nogueira</a><br/>
+<a href="https://github.com/TeoNogueira">🌀 Github Teo_Nogueira</a><br/>
 <a href="https://instagram.com/teo_nogueira">🌀 Instagram Teo_Nogueira</a><br/>
 <a href="https://rocketseat.com.br">🌀 RocketSeat Oficial</a><br/>
 <a href="https://discord.com/invite/gCRAFhc">🌀 Discord RocketSeat</a><br/>
